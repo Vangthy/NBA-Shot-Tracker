@@ -32,7 +32,7 @@ I would like to acknowledge the following YouTube video for providing code snipp
 - [How to make NBA Shot Charts (PYTHON) | FlightReacts Inspired](https://www.youtube.com/watch?v=a3u-3gEYvxM)
   - Channel: Hobe
 
-Certain parts of the code in this project were directly adapted from the examples provided in the mentioned video. Please check the video for detailed explanations and original code. It inspired me to create one and also how to use python. I've never did data visualization in python before and helped alot wih my understanding.
+Certain parts of the code in this project were directly adapted from the examples provided in the mentioned video. Please check the video for detailed explanations and original code. It inspired me to create one and also how to use Python. I've never done data visualization in Python before, and it helped a lot with my understanding.
 
 # Contributing
 If you'd like to contribute to the project, please follow these guidelines:
