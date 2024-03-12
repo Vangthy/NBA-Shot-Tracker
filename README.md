@@ -29,7 +29,7 @@ python -m pip install -r requirements.txt
 # Acknowledgment
 I would like to acknowledge the following YouTube video for providing code snippets that were utilized in this project:
 
-- [How to make NBA Shot Charts (PYTHON) | FlightReacts Inspired] (https://www.youtube.com/watch?v=a3u-3gEYvxM)
+- [How to make NBA Shot Charts (PYTHON) | FlightReacts Inspired](https://www.youtube.com/watch?v=a3u-3gEYvxM)
   - Channel: Hobe
 
 Certain parts of the code in this project were directly adapted from the examples provided in the mentioned video. Please check the video for detailed explanations and original code. It inspired me to create one and also how to use python. I've never did data visualization in python before and helped alot wih my understanding.
