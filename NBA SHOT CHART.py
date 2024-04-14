@@ -3,6 +3,7 @@
 # Description: NBA Player Shot Charts and Statistics
 
 # Importing necessary libraries
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -373,7 +374,7 @@ def main():
         # Check if player_shotchart_df is not None
         if player_shotchart_df is not None:
             # Set the title dynamically using the player's name
-            title = f"{selected_player['full_name']} Shot Chart : " + season_year + " Season"
+            title = f"{selected_player['full_name']}'s Shot Chart : " + season_year + " Season"
 
             # Set the figure size
             plt.rcParams['figure.figsize'] = (12, 11)
